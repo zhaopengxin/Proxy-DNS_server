@@ -222,16 +222,3 @@ Your DNS server must log its activity in a specific format. For each valid DNS q
 * `client-ip` The IP address of the client who sent the query.
 * `query-name` The hostname the client is trying to resolve.
 * `response-ip` The IP address you return in response.
-
-<a name="submission-instr"></a>
-## Submission Instructions
-
-You git repository must include the following:
-
-* `Makefile`(s) to compile `miProxy` and `nameserver`
-* The source code for `miProxy`: all source files for `miProxy` should be in a folder called `miProxy`
-* The source code for `nameserver`: all source files for `nameserver` should be in a folder called `nameserver`
-* A `README` file with the names and umich uniqnames of the group members. Also specify in this `README` if you choose to use any late days for this project.
-
-## Acknowledgements
-This programming assignment is based on Peter Steenkiste's Project 3 from CMU CS 15-441: Computer Networks.
