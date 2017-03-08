@@ -1,7 +1,3 @@
-# Assignment 2: Video Streaming via CDN
-
-### Due: February 24th, 2017 at 11:59 PM
-
 ## Overview
 
 Video traffic dominates the Internet. In this project, you will explore how video content distribution networks (CDNs) work. In particular, you will implement adaptive bitrate selection, DNS load balancing, and an HTTP proxy server to stream video at high bit rates from the closest server to a given client.
